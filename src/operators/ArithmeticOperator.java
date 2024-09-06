@@ -9,7 +9,7 @@ public class ArithmeticOperator {
         System.out.println("Subtraction:  " + (num1 - num2));
         System.out.println("Multiplication:  " + (num1 * num2));
         System.out.println("Division:  " + (num1 / num2));
-        System.out.println("Remainder:  " + (num1 % num2));
+//        System.out.println("Remainder:  " + (num1 % num2));
 
         System.out.println("Post Increment:  " + (num1++));
         System.out.println("Pre Increment:  " + (++num1));
